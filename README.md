@@ -16,8 +16,3 @@ notify_number = "+The number that you want to send calls or texts to"
 twilio_number = "Your Twilio phone number"
 ```
 
-###Example
-Speed test results below the tresholds specified trigger an @channel notification and change attachment color to red. 
-![Example](http://i.imgur.com/qI1DqfV.jpg)
-
-
